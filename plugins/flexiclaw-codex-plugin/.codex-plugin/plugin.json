@@ -7,7 +7,7 @@
     "email": "ivan.frias@byviz.com",
     "url": "https://byviz.ai"
   },
-  "homepage": "https://byviz.ai",
+  "homepage": "https://flexiclaw.ai/codex",
   "repository": "https://github.com/byviz/flexiclaw-for-elastic-codex",
   "license": "MPL-2.0",
   "keywords": [
@@ -36,7 +36,7 @@
       "Investigate",
       "Report"
     ],
-    "websiteURL": "https://byviz.ai",
+    "websiteURL": "https://flexiclaw.ai/codex",
     "brandColor": "#FCB52C",
     "composerIcon": "./assets/flexi-icon.png",
     "logo": "./assets/flexi-default.png",

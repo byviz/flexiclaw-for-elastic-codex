@@ -18,7 +18,7 @@ It helps Codex connect to Elastic, inspect logs, APM traces, metrics, alerts and
 
 The goal is not to replace Kibana. The goal is to make Codex a useful investigation partner for Elastic: structured, cautious, and grounded in evidence.
 
-[Quick start](#quick-start) · [What it can do](#what-it-can-do) · [Dashboard workflow](#dashboard-workflow) · [Safety model](#safety-model) · [License](#license)
+[Website](https://flexiclaw.ai/codex) · [Quick start](#quick-start) · [What it can do](#what-it-can-do) · [Dashboard workflow](#dashboard-workflow) · [Safety model](#safety-model) · [License](#license)
 
 ## Why
 
