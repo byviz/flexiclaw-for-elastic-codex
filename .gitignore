@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.example
+flexiclaw.config.local.json
+artifacts/
+dist/

@@ -1,0 +1,6 @@
+{
+  "kibanaUrl": "https://your-kibana.example.com",
+  "elasticsearchUrl": "https://your-elasticsearch.example.com",
+  "apiKey": "your-read-only-api-key",
+  "dashboardApiKey": "your-dashboard-write-api-key"
+}

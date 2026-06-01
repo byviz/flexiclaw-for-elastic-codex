@@ -1,0 +1,16 @@
+{
+  "name": "flexiclaw-codex-plugin",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "flexiclaw:setup-check": "node scripts/setup-check.mjs",
+    "flexiclaw:dashboard": "node scripts/dashboard-e2e.mjs",
+    "flexiclaw:dashboard:publish": "node scripts/dashboard-e2e.mjs --publish",
+    "flexiclaw:mvp-smoke": "node scripts/mvp-smoke.mjs",
+    "dashboard:draft": "node scripts/dashboard-e2e.mjs",
+    "dashboard:publish": "node scripts/dashboard-e2e.mjs --publish",
+    "dashboard:e2e": "node scripts/dashboard-e2e.mjs",
+    "dashboard:e2e:publish": "node scripts/dashboard-e2e.mjs --publish"
+  }
+}

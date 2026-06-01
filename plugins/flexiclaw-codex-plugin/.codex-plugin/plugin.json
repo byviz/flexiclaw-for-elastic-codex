@@ -1,0 +1,49 @@
+{
+  "name": "flexiclaw-codex-plugin",
+  "version": "0.2.0",
+  "description": "Observability investigation skills for Codex using Elastic.",
+  "author": {
+    "name": "byviz analytics",
+    "email": "ivan.frias@byviz.com",
+    "url": "https://byviz.ai"
+  },
+  "homepage": "https://byviz.ai",
+  "repository": "https://github.com/byviz/flexiclaw-for-elastic-codex",
+  "license": "MPL-2.0",
+  "keywords": [
+    "elastic",
+    "elasticsearch",
+    "kibana",
+    "codex",
+    "observability",
+    "logs",
+    "apm",
+    "metrics",
+    "esql",
+    "dashboards",
+    "flexiclaw"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Flexiclaw for Elastic",
+    "shortDescription": "Investigate Elastic observability data from Codex.",
+    "longDescription": "Flexiclaw for Elastic helps users connect Elastic in Codex, then adds observability-first investigation skills for logs, APM traces, metrics and streams. It can guide ES|QL generation, dashboard proposals and evidence-based reports. The MVP is read-only by default.",
+    "developerName": "byviz analytics",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Read",
+      "Analyze",
+      "Investigate",
+      "Report"
+    ],
+    "websiteURL": "https://byviz.ai",
+    "brandColor": "#FCB52C",
+    "composerIcon": "./assets/flexi-icon.png",
+    "logo": "./assets/flexi-default.png",
+    "defaultPrompt": [
+      "Conecta mi Elastic en Codex.",
+      "Investigate an Elastic observability incident.",
+      "Create a dashboard preview for the last 30 days."
+    ]
+  }
+}

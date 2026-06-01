@@ -1,0 +1,20 @@
+{
+  "name": "flexiclaw",
+  "interface": {
+    "displayName": "Flexiclaw"
+  },
+  "plugins": [
+    {
+      "name": "flexiclaw-codex-plugin",
+      "source": {
+        "source": "local",
+        "path": "./plugins/flexiclaw-codex-plugin"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}
