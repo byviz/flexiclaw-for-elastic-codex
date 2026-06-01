@@ -2,7 +2,9 @@
   <img src="plugins/flexiclaw-codex-plugin/assets/flexi-default.png" alt="Flexiclaw mascot" width="220">
 </p>
 
-# Flexiclaw for Elastic
+# FlexiClaw for Elastic
+
+**Codex plugin for Elastic observability.**
 
 ![Version 0.2.0](https://img.shields.io/badge/version-0.2.0-blue)
 ![Codex plugin](https://img.shields.io/badge/Codex-plugin-111827)
@@ -10,7 +12,7 @@
 ![License MPL--2.0](https://img.shields.io/badge/license-MPL--2.0-orange)
 ![MVP](https://img.shields.io/badge/status-MVP-7C3AED)
 
-**Flexiclaw for Elastic** is a Codex plugin for investigating Elastic observability data with an evidence-first workflow.
+**FlexiClaw for Elastic** is a Codex plugin for investigating Elastic observability data with an evidence-first workflow.
 
 It helps Codex connect to Elastic, inspect logs, APM traces, metrics, alerts and streams, generate ES|QL, create dashboard previews, publish approved Kibana Lens dashboards, and write reproducible incident reports.
 
